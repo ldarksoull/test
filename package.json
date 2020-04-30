@@ -33,7 +33,7 @@
     "gulp4": "^4.0.2",
     "imagemin-jpeg-recompress": "^6.0.0",
     "imagemin-pngquant": "^8.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery.maskedinput": "^1.4.1",
     "plumber": "^0.4.8",
     "postcss": "^7.0.1"
